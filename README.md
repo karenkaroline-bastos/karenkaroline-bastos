@@ -1,4 +1,4 @@
-# Olá, Sou  **[Karen Bastos](https://github.com/karenkaroline-bastos)**, e é um prazer receber vocês.
+# Olá, Sou  **[Karen Bastos](https://www.linkedin.com/in/karen-karoline-bastos-846b2083)**, e é um prazer receber vocês.
 ###  <br>Tenho 28 anos de idade, pisciana e sou de Belo Horizonte-MG. <br>Estou iniciando minha jornada no mundo da tecnologia, e tem sido uma emocionante aventura de aprendizado e crescimento. <br>Estou animada com o que o futuro reserva nesta jornada de programação e tecnologia. 🚀🎓🎯 
 
 
