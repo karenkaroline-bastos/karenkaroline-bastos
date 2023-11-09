@@ -4,17 +4,16 @@
 
 <br><h1> <img src= "https://cdn-icons-png.flaticon.com/512/3584/3584382.png" width="40" height="30"/>  Sobre minhas formações Acadêmicas</h1>
 
-<p> 🔹Faculdade Estácio - Análise e Desenvolvimento De Sistema - Iniciado em 2023 - Cursando.
+<p> 🔹 Santander Bootcamp 2023 - Ciência de Dados com Python (DIO, 2023)
+<br>🔹Faculdade Estácio - Análise e Desenvolvimento De Sistema - Iniciado em 2023 - Cursando.
 <br>🔸Faculdade Pitagoras - Processos Gerenciais - Concluído em 2021.
 <br>🔹Faculdade de Engenharia de Minas Gerais (FEAMIG) - Engenharia de Produção - Iniciado em 2017 - Trancado 2019.
 <br>🔸Senac-MG - Curso Técnico em Administração - Concluído em 2016.
-<br>🔹CEFET-MG - Curso Gestão Empresarial, Administração de Empresas - Concluído em 2013. </p>
-
+<br>🔹CEFET-MG - Curso Gestão Empresarial, Administração de Empresas - Concluído em 2013.</p>
 
 <br><h1> <img src= "https://ameninadigital.files.wordpress.com/2020/09/open-for-business-saiba-como-dar-destaque-aos-seus-servicos-profissionais-no-seu-linkedin-a-menina-digital-cover.png?w=1400" width="40" height="40"/> Estudando... </h1>
-<p> 🔹 Santander Bootcamp 2023 - Ciência de Dados com Python (DIO, 2023).
- <br>🔸Certificação Análise de Dados do Google (Coursera, 2023).
- <br>🔹 Java (Alura, 2023).
+<p>  🔸Certificação Análise de Dados do Google (Coursera, 2023).
+ <br>🔹 Java (Alura, 2023).</p>
 
 <br>
 
