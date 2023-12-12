@@ -5,7 +5,7 @@
 <br><h1> <img src= "https://cdn-icons-png.flaticon.com/512/3584/3584382.png" width="40" height="30"/>  Sobre minhas formações Acadêmicas</h1>
 
 <p> 🔹 Santander Bootcamp 2023 - Ciência de Dados com Python (DIO, 2023)
-<br>🔹Faculdade Estácio - Análise e Desenvolvimento De Sistema - Iniciado em 2023 - Cursando.
+<br>🔹Faculdade Estácio - Análise e Desenvolvimento De Sistema - Iniciado em 2023 - Trancado.
 <br>🔸Faculdade Pitagoras - Processos Gerenciais - Concluído em 2021.
 <br>🔹Faculdade de Engenharia de Minas Gerais (FEAMIG) - Engenharia de Produção - Iniciado em 2017 - Trancado 2019.
 <br>🔸Senac-MG - Curso Técnico em Administração - Concluído em 2016.
