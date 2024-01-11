@@ -26,7 +26,6 @@
 <br><h1> <img src= "https://img.freepik.com/vetores-gratis/ilustracao-de-relacoes-publicas-com-porta-voz_23-2148894958.jpg?w=360" width="40" height="40"/> Conecte-se comigo </h1>
 <p> Se você tiver alguma pergunta, comentário ou oportunidade de colaboração, não hesite em entrar em contato.</p>
 
-[![Perfil DIO](https://img.shields.io/badge/Perfil%20DIO-071952?style=quadrado%20plano&cacheSeconds=360&link)](https://www.dio.me/users/karenkaroline_bastos)
 [![Instagram](https://img.shields.io/badge/Instagram-071952?style=quadrado%20plano&cacheSeconds=360)](https://www.instagram.com/karenkaroline.bastos)
 [![Linkedin](https://img.shields.io/badge/Linkedin-071952?style=quadrado%20plano&cacheSeconds=360)](https://www.linkedin.com/in/karen-karoline-bastos-846b2083)
 [![Email Gmail](https://img.shields.io/badge/Gmail-071952?style=quadrado%20plano&cacheSeconds=360)](karenkaroline.bastos@gmail.com)
