@@ -1,11 +1,12 @@
 # Olá, Sou  **[Karen Bastos](https://www.linkedin.com/in/karen-karoline-bastos-846b2083)**, e é um prazer receber vocês.
-###  <br>Tenho 28 anos de idade, pisciana e sou de Belo Horizonte-MG. <br>Estou iniciando minha jornada no mundo da tecnologia, e tem sido uma emocionante aventura de aprendizado e crescimento. <br>Estou animada com o que o futuro reserva nesta jornada de programação e tecnologia. 🚀🎓🎯 
+###  <br>Tenho 29 anos de idade, pisciana e sou de Belo Horizonte-MG. <br>Iniciei minha jornada no mundo da tecnologia, e tem sido uma emocionante aventura de aprendizado e crescimento. <br>Estou animada com o que o futuro reserva nesta jornada de programação e tecnologia. 🚀🎓🎯 
 
 
 <br><h1> <img src= "https://cdn-icons-png.flaticon.com/512/3584/3584382.png" width="40" height="30"/>  Sobre minhas formações Acadêmicas</h1>
 
-<p> 🔹 Santander Bootcamp 2023 - Ciência de Dados com Python (DIO, 2023)
-<br>🔹Faculdade Estácio - Análise e Desenvolvimento De Sistema - Iniciado em 2023 - Trancado.
+<br>🔹Proz - Técnico em Desenvolvimento De Sistema - Iniciado em 2024 - Cursando
+<br>🔸Descodificadas - Programação Web - Iniciado em 2024 - Cursando
+<p> 🔹 Santander Bootcamp 2023 - Ciência de Dados com Python (DIO, 2023) - Concluído em 2013.
 <br>🔸Faculdade Pitagoras - Processos Gerenciais - Concluído em 2021.
 <br>🔹Faculdade de Engenharia de Minas Gerais (FEAMIG) - Engenharia de Produção - Iniciado em 2017 - Trancado 2019.
 <br>🔸Senac-MG - Curso Técnico em Administração - Concluído em 2016.
