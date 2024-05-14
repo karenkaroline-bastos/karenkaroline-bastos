@@ -33,5 +33,5 @@
 
 
 <br><foot>
-<center> <p>Feito por Karen Bastos💙 </p>
+<center> <p>Feito com ♡ por Karen Bastos </p>
 </foot>
