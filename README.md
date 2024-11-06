@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://drive.google.com/file/d/1GppAWUiQrKHMslv3QeN2VFI6FwYTS_3C/view?usp=sharing"/>
+</div>
+
 # Olá, Sou Karen Bastos! 👋
 
 É um prazer receber você aqui!
@@ -17,7 +21,6 @@ Iniciei minha jornada no mundo da tecnologia, e tem sido uma emocionante aventur
 - Técnico em Desenvolvimento de Sistemas (Proz, 2024)
 - Curso Desenvolvimento FullStack (CejaBrasil, 2024)
 - Curso Desenvolvimento Web (Descodificadas, 2024)
-- Certificação em Análise de Dados do Google (Coursera, 2023)
 
 ### Concluídos
 - **Santander Bootcamp**: Ciência de Dados com Python (DIO, 2023)
@@ -63,4 +66,4 @@ Se você tiver alguma pergunta, comentário ou oportunidade de colaboração, n�
 
 - [LinkedIn](https://www.linkedin.com/in/karen-karoline-bastos-846b2083)
 
-Feito com ♡ por Karen Bastos
+<p align="center">Feito com ♡ por Karen Bastos</p>
