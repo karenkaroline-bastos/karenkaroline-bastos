@@ -16,11 +16,10 @@ Iniciei minha jornada no mundo da tecnologia, e tem sido uma emocionante aventur
 ## Formação Acadêmica
 
 ### Em andamento
+- Curso Ciências de Dados (Oracle e Alura, 2025)
 - Pós em Análise de Dados (Anhanguera, 2024)
-- Curso de Estatística Descritiva com Python (2024)
 - Técnico em Desenvolvimento de Sistemas (Proz, 2024)
 - Curso Desenvolvimento FullStack (CejaBrasil, 2024)
-- Curso Desenvolvimento Web (Descodificadas, 2024)
 
 ### Concluídos
 - **Santander Bootcamp**: Ciência de Dados com Python (DIO, 2023)
